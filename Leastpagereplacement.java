@@ -92,6 +92,7 @@ public class Leastpagereplacement {
     }
     
 }
+/*
 output:-
 Please enter the number of Frames: 
 3
@@ -126,3 +127,4 @@ The number of Hits: 8
 Hit Ratio: 0.4
 The number of Faults: 12
 --------------------------------
+*/
